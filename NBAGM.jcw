@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>NBAGM</label>
+	</settings>
+	<users>
+		<user>
+			<path>NBAGM.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>NBAGM.jcp</path>
+		</project>
+	</projects>
+</workspace>
